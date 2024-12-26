@@ -1,4 +1,3 @@
-# Solução gambiarra minha
 arr = [1, 4, 3, 6, 7, 0]
 max_el = [0, 0]
 max = 0
